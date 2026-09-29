@@ -1,0 +1,9 @@
+[
+  {"name": "COEP Technological University, Pune", "branch": "Computer Engineering", "city": "Pune", "cutoff": 99.0},
+  {"name": "VJTI, Mumbai", "branch": "Computer Engineering", "city": "Mumbai", "cutoff": 98.8},
+  {"name": "Government College of Engineering, Karad", "branch": "Computer Engineering", "city": "Karad", "cutoff": 95.0},
+  {"name": "Pune Institute of Computer Technology", "branch": "Computer Engineering", "city": "Pune", "cutoff": 98.0},
+  {"name": "KBT College of Engineering", "branch": "Computer Engineering", "city": "Nashik", "cutoff": 80.0},
+  {"name": "Sample College A", "branch": "Information Technology", "city": "Nashik", "cutoff": 85.0},
+  {"name": "Sample College B", "branch": "Mechanical Engineering", "city": "Pune", "cutoff": 75.0}
+]

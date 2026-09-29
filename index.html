@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>College Predictor</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>College Predictor</h1>
+    <p class="sub">Enter your percentile to see colleges you can target.</p>
+    <div class="filters">
+      <input id="percentile" type="number" min="0" max="100" step="0.01" placeholder="Your percentile">
+      <select id="branch"><option value="">All branches</option></select>
+      <select id="city"><option value="">All cities</option></select>
+      <button id="go">Predict</button>
+    </div>
+    <div id="summary"></div>
+    <div id="results"></div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
